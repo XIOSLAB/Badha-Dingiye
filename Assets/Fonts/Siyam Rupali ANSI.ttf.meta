@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: acfb871f8c2c8de41a865e9e0b26f89b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Siyam Rupali ANSI
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f0b189a308c8a534eb21453902daf8a4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
